@@ -62,7 +62,7 @@ There are two types of requirements:
 # 4W's and 1 H's
 
 ## When 
-- Anyone can calculator from anywhere
+- Anyone can use calculator from anywhere
 - This calculator can be used in daily life to avoid mistakes.
 
 
