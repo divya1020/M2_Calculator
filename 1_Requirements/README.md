@@ -81,3 +81,6 @@ There are two types of requirements:
 ## How
 -  By giving different inputs one can find their desired output.
 
+
+![4W's and 1 H's](https://user-images.githubusercontent.com/88372627/164444658-28639801-89fe-450d-9f35-edeb196adfd3.png)
+
