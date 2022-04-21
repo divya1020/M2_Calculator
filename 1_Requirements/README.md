@@ -57,6 +57,7 @@ There are two types of requirements:
 
 
 
+![Swot Analysis](https://user-images.githubusercontent.com/88372627/164445831-ff1c23e7-cfa7-4b84-8806-74bead21f975.png)
 
 
 # 4W's and 1 H's
