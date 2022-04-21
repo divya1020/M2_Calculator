@@ -115,3 +115,40 @@ There are two types of requirements:
 
 
 ![4W's and 1 H's](https://user-images.githubusercontent.com/88372627/164444658-28639801-89fe-450d-9f35-edeb196adfd3.png)
+
+
+
+
+# Design 
+
+
+
+
+
+
+
+
+
+
+# Test Cases
+
+## High Level
+
+| ID | Description | I/P | Expected O/P | Actual O/P | Type Of Test |
+| --- | ---------- | --- | ------------- | ---------- | ----------- |
+| HL_1 | Input from the user | Input value | Should give output | Successful | Input based |
+| HL_2 | Giving output from the input |  Input value from the user | Shows Output | Successful | Input based |
+
+
+
+
+
+
+## Low Level 
+
+| ID | Description | I/P | Expected O/P | Actual O/P | Type Of Test |
+| --- | ---------- | --- | ------------- | ---------- | ----------- |
+| LL_1 | Performing operation '+' |      |     |      |  Requirement based |
+| LL_2 | Performing operation '-' |      |     |      |  Requirement based |
+| LL_3 | Performing operation '*'|       |     |      |  Requirement based |
+| LL_1 | Performing operation '/' |     |     |      |  Requirement based |
