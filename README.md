@@ -15,4 +15,4 @@ The objective of this project is to build a calculator using microcontroller atm
 3_Implementation|	All codes and Documentation |
 4_TestCases | Test plans |
 5_Report |	Documentation of whole project
-6_Output |	All the images of this project |
+6_Output |	Output images of this project |
